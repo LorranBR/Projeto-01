@@ -1,0 +1,58 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 49px;
+line-height: 56px;
+font-weight: normal;
+
+margin-bottom: 32px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+#personagem {
+  width: 592px;
+  margin: 0 auto 72px;
+}
+
+#personagem img {
+  margin-bottom: 72px auto;
+}
+
+span, a {
+  color:purple
+}
+
+p, #rodape {
+  color:#414141;
+
+  font-size: 14px;
+  line-height: 28px;
+}
+
+
+#rodape a + a {
+  margin-left: 28px;
+}
+
+#line {
+  width: 568px;
+  border: 1px solid #ECEFF2;
+  height: 0px;
+  margin: auto 8px;
+}
+
+#bolinha{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  
+}
